@@ -13,8 +13,8 @@ getTime();
 //Colored Text
 let colorsArr = [
     "red",
-    "cyan",
-    "purple",
+    "orange",
+    "red",
     "orange"
 ]
 let colori = 0;
